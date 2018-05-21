@@ -83,8 +83,8 @@ author:
   bio              : "Computer Science Syracuse University Senior"
   location         : "Syracuse"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
+  googlescholar    : 
+  email            : "limuzhen000@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
-  google_plus      :
+  github           : 
+  google_plus      : "https://github.com/Cyurse"
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
