@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Muzhen Li / 李牧真 "
-title_separator          : "-"
+title_separator          : "Muzhen Li"
 name                     : &name "Muzhen Li"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
