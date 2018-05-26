@@ -7,3 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
+- I am now senior student majoring in computer science in Syracuse University. 
+  I plan to pursue my Master's Degree. 
